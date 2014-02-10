@@ -7,3 +7,13 @@ p
 {font-family:"Times New Roman";
 font-size:20px;
 }
+
+#changeColorButton
+{
+    background-color: lime;
+}
+
+#changePageButton
+{
+    background-color: crimson;
+}
